@@ -1,2 +1,3 @@
-/calendar/main.connery
-/calendar/calendar.connery
+file_url,file_location
+q.connerylang.org/packages/calendar/main.connery,calendar/main.connery
+q.connerylang.org/packages/calendar/calendar.connery,calendar/calendar.connery

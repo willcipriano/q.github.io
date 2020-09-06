@@ -1,1 +1,1 @@
-(load "Q/calendar/main.connery")
+(load (join __Q_package_location__ "/calendar/main.connery"))
