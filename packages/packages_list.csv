@@ -1,4 +1,3 @@
 package_name,package_version,package_description,manifest_location
 fake-package,0.0.1,A fake package that doesn't exist,google.com/test.csv
-calendar,0.0.1,Basic tools for the management of dates,q.connerylang.org/packages/calendar/mainifest.csv
-faker-package,0.0.2,Another test package,google.com/test.csv
+cal-tools,0.0.1,Basic tools for the management of dates,q.connerylang.org/packages/calendar/mainifest.csv
