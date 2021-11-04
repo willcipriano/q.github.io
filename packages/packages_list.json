@@ -1,0 +1,10 @@
+[
+  {
+    "name": "test",
+    "location": "/test/test_manifest.json"
+  },
+  {
+    "name": "test2",
+    "location": "/test/test2_manifest.json"
+  }
+]
