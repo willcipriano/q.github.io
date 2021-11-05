@@ -1,10 +1,10 @@
-[
-  {
+{
+  "test": {
     "name": "test",
     "location": "/test/test_manifest.json"
   },
-  {
+  "test2": {
     "name": "test2",
     "location": "/test/test2_manifest.json"
   }
-]
+}
